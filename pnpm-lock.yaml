@@ -1,0 +1,27 @@
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@hayato94087/arithmetics':
+    specifier: ^0.0.2
+    version: 0.0.2
+
+devDependencies:
+  typescript:
+    specifier: ^5.2.2
+    version: 5.2.2
+
+packages:
+
+  /@hayato94087/arithmetics@0.0.2:
+    resolution: {integrity: sha512-7xtmsptnXe5st6n6VyuVGZlIe/W6UhbeBksjx5cLyHw8WwJ/DkYHuCQntb71VUU9u4zoCN+g3cuBXnIUnT5DAA==, tarball: https://npm.pkg.github.com/download/@hayato94087/arithmetics/0.0.2/f5641858a6d2e580658541952b3cfdea817a7424}
+    dev: false
+
+  /typescript@5.2.2:
+    resolution: {integrity: sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: true
